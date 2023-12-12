@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Date</title>
+</head>
+<body>
+    <h1>When do you plan to travel?</h1>
+    <form action="/analyze" method="post">
+        <label for="travel_date">Select your date for travelling:</label>
+        <select name="travel_date" id="travel_date">
+            {% for s in date_data.keys() %}
+                <option value="{{ s }}">{{ s }}</option>
+            {% endfor %}
+        </select>
+        <br>
+        <label for="state">Select your state:</label>
+        <select name="state" id="state">
+            {% for s in states %}
+                <option value="{{ s }}">{{ s }}</option>
+            {% endfor %}
+        </select>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

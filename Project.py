@@ -1,52 +1,107 @@
+from flask import Flask, render_template, request
 import pandas as pd
-import numpy as np
 import requests
-from bs4 import BeautifulSoup
-from selenium import webdriver
-import re
-import time
-from selenium.webdriver.common.by import By
+import numpy as np
 
-def get_attractions_name(driver):
-    soup = BeautifulSoup(driver.page_source, 'html.parser')
-    name = []
-    typeName = []
-    location = []
-    for text in soup.find_all('div', class_ = "XfVdV o AIbhI"):
-        name.append(text.text.strip())
-    for text in soup.select('div.BKifx > div > div > div.biGQs._P.pZUbB.hmDzD'):
-        typeName.append(text.text.strip())
-    # for i in range(len(name)):
-    #     location.append(get_locations(driver, i))
-    df = pd.DataFrame({'name': name, 'type': typeName})
-    # df = pd.DataFrame({'name': name, 'type': typeName, 'location': location})
-    return df
+app = Flask(__name__)
 
-def get_locations(driver, i):
-    new_window_button = driver.find_element(By.CSS_SELECTOR, f"#lithium-root > main > div.C > div > div > div.Igubo.z > div > div:nth-child(2) > div.IyYBN._T > div.C > div > div > div:nth-child(2) > div > div.JfoTr._T > div > div > section:nth-child({i+2}) > div > div > div > div > article > div.hZuqH.y > header > div > div > div > a:nth-child(1) > h3 > div > span > div")
-    new_window_button.click()
-    all_window_handles = driver.window_handles
-    new_window_handle = all_window_handles[-1]
-    driver.switch_to.window(new_window_handle)
-    soup = BeautifulSoup(driver.page_source, 'html.parser')
-    location = soup.select('#tab-data-WebPresentation_PoiLocationSectionGroup > div > div > div.AcNPX.A > div.ZhNYD > div > div > div > div.MJ > button > span')[0].text.strip()
-    driver.close()
-    original_window_handle = all_window_handles[0]
-    driver.switch_to.window(original_window_handle)
-    return location
-    
+# Replace this with your actual data and analysis functions
+# Example: Some dummy analysis function
+def get_weather_data(lat, lng, date):
+    try:
+        url = f"https://api.weather.gov/points/{lat},{lng}"
+        response = requests.get(url).json()
+        new_url = response['properties']['forecast']
+        new_response = requests.get(new_url).json()
+        weather = new_response['properties']['periods'][date]['shortForecast']
+        temperature = new_response['properties']['periods'][date]['temperature']
+    except:
+        weather = 'Not Found'
+        temperature = -99
+    return weather, temperature
 
-page_num = 10
-driver = webdriver.Chrome()
-url = "https://www.tripadvisor.com/Attractions-g191-Activities-oa0-United_States.html"
-driver.get(url)
-data = pd.DataFrame(columns=['name', 'type'])
-for i in range(page_num):
-    time.sleep(5)
-    df = get_attractions_name(driver)
-    data = pd.concat([data, df], ignore_index=True)
-    driver.find_element(By.CSS_SELECTOR, "#lithium-root > main > div.C > div > div > div.Igubo.z > div > div:nth-child(2) > div.IyYBN._T > div.C > div > div > div:nth-child(2) > div > div.JfoTr._T > div > div > section:nth-child(40) > div > div:nth-child(1) > div > div.OvVFl.j > div.xkSty > div > a").click()
-driver.close()
-driver.quit()
-data.to_csv('attractions_with.csv', index=False)
+def weather_data(date, state):
+    print("Loading Weather Data...")
+    global state_data
+    state_data = data[data['State'] == state]
+    state_data['Weather'] = pd.Series(dtype='object')
+    state_data['Temperature'] = pd.Series(dtype='float64')
+    for index in range(len(state_data)):
+        print(index)
+        lat = state_data.iloc[index,1]
+        lng = state_data.iloc[index,2]
+        state_data.iloc[index, 5], state_data.iloc[index, 6] = get_weather_data(lat, lng, date)
 
+def category_temp(temp):
+    if temp < 75:
+        return 'cold'
+    elif temp >= 120:
+        return 'hot'
+    else:
+        return 'warm'
+
+# date_data
+date_data = {
+    'This afternoon': 0,
+    'Tonight': 1,
+    'Tomorrow afternoon': 2,
+    'Tomorrow night': 3,
+    'Day after tomorrow afternoon': 4,
+    'Day after tomorrow night': 5,
+    'Three days later afternoon': 6,
+    'Three days later night': 7,
+    'Four days later afternoon': 8,
+    'Four days later night': 9,
+    'Five days later afternoon': 10,
+    'Five days later night': 11,
+    'Six days later afternoon': 12, 
+    'Six days later night': 13
+}
+
+
+data = pd.read_csv("attractions_with_locations.csv")
+states = data['State'].unique()
+tree = {}
+
+@app.route('/')
+def travel_date():
+    return render_template('travel_date.html', date_data = date_data, states=states)
+
+@app.route('/analyze', methods=['POST'])
+def analyze():
+    if request.method == 'POST':
+        travel_date = request.form['travel_date']
+        state = request.form['state']
+        date = date_data[travel_date]
+        weather_data(date, state)
+
+        state_data['Temp Category'] = state_data['Temperature'].astype(int).apply(category_temp)
+        # make the tree
+        for index, row in state_data.iterrows():
+            weather = row['Weather']
+            temp = row['Temp Category']
+            attraction_name = row['Attraction Name']
+        
+        
+            if weather not in tree:
+                tree[weather] = {}
+        
+            if temp not in tree[weather]:
+                tree[weather][temp] = []
+        
+            tree[weather][temp].append(attraction_name)
+
+    return render_template('preferences.html', attraction_data=tree, df = state_data)
+
+@app.route('/preferences', methods=['GET', 'POST'])
+def preferences():
+    if request.method == 'POST':
+        weather_preference = request.form['weather_preference']
+        temperature_preference = request.form['temperature_preference']
+        # Query the dictionary
+        result = tree.get(weather_preference, {}).get(temperature_preference, 'Not found')
+
+    return render_template('result.html', result=result, df = state_data)
+
+if __name__ == '__main__':
+    app.run(debug=True)

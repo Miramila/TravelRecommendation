@@ -1,0 +1,806 @@
+{
+  "New York": {
+    "Mostly Clear": {
+      "cold": [
+        "Central Park",
+        "The National 9/11 Memorial & Museum",
+        "Empire State Building",
+        "The Metropolitan Museum of Art",
+        "The High Line",
+        "Statue of Liberty",
+        "Grand Central Terminal",
+        "Brooklyn Bridge",
+        "One World Observatory",
+        "Bryant Park",
+        "Rockefeller Center",
+        "New York Public Library",
+        "The Museum of Modern Art (MoMA)",
+        "Beat The Bomb",
+        "9/11 Ground Zero Tour",
+        "Immersive Gamebox - Lower East Side",
+        "Foods of New York Tours",
+        "Nice Guy Tours",
+        "New York Media Boat / Adventure Sightseeing Tours",
+        "Manhattan Walking Tour",
+        "NYC Park Tours\u2122 | Central Park Tours",
+        "Secret Food Tours New York City",
+        "Experience NYC",
+        "Babylon Tours New York City",
+        "New York en francais"
+      ]
+    },
+    "Mostly Cloudy then Chance Snow Showers": {
+      "cold": [
+        "Over The Falls Tours"
+      ]
+    },
+    "Snow Showers Likely": {
+      "cold": [
+        "Gray Line of Niagara Falls/Buffalo"
+      ]
+    },
+    "Partly Cloudy": {
+      "cold": [
+        "Daleys Adventure Boat Tours"
+      ]
+    }
+  },
+  "Nevada": {
+    "Partly Cloudy": {
+      "cold": [
+        "Fountains of Bellagio",
+        "Bellagio Conservatory & Botanical Garden",
+        "High Roller",
+        "The Beatles - Love - Cirque du Soleil",
+        "The Little Vegas Chapel",
+        "Las Vegas ATVs",
+        "Las Vegas Shooting Center",
+        "Grand Adventures Tours",
+        "Red Rock Scooter Tours",
+        "Blazin' Paddles",
+        "Red E Bike Tours",
+        "Secret Food Tours Las Vegas"
+      ]
+    },
+    "Mostly Cloudy": {
+      "cold": [
+        "Red Rock Canyon National Conservation Area",
+        "Dig This",
+        "Exotics Racing",
+        "Las Vegas Elite Offroad",
+        "Dream Racing",
+        "Laughlin Tours"
+      ]
+    }
+  },
+  "California": {
+    "Partly Cloudy": {
+      "cold": [
+        "Alcatraz Island",
+        "Golden Gate Bridge",
+        "The Getty Center",
+        "Griffith Observatory",
+        "Pier 39",
+        "Santa Monica Pier",
+        "Bikes And Hikes LA Tours",
+        "Hollywood Hikes",
+        "Cal Coast Adventures",
+        "Aloha Brothers Surf Lessons"
+      ]
+    },
+    "Partly Cloudy then Patchy Fog": {
+      "cold": [
+        "USS Midway Museum",
+        "San Diego Zoo",
+        "Balboa Park",
+        "Disney California Adventure Park",
+        "Gracianna Winery"
+      ]
+    },
+    "Patchy Fog": {
+      "cold": [
+        "La Jolla Cove"
+      ]
+    },
+    "Mostly Cloudy": {
+      "cold": [
+        "Monterey Bay Aquarium",
+        "Lombard Street",
+        "17-Mile Drive",
+        "Oakland California Temple & Visitors' Center",
+        "SF Excursions"
+      ]
+    }
+  },
+  "Louisiana": {
+    "Partly Cloudy": {
+      "cold": [
+        "The National WWII Museum",
+        "Jackson Square",
+        "Frenchmen Street",
+        "Clue Carre - New Orleans' First Live Escape Game",
+        "The Escape Game New Orleans",
+        "TOURS by STEVEN",
+        "New Orleans Secrets"
+      ]
+    }
+  },
+  "Kentucky": {
+    "Clear": {
+      "cold": [
+        "Louisville Mega Cavern",
+        "Mint Julep Experiences - Louisville"
+      ]
+    }
+  },
+  "Florida": {
+    "Partly Cloudy": {
+      "cold": [
+        "Universal Islands of Adventure",
+        "Discovery Cove",
+        "NASA Kennedy Space Center Visitor Complex",
+        "Clearwater Beach",
+        "Stetson Mansion",
+        "Busch Gardens",
+        "McCarthy's Wildlife",
+        "Epcot World Showcase",
+        "The Escape Game Orlando",
+        "Devon Transportation",
+        "Fun 2 Dive Manatee Tours",
+        "River Ventures",
+        "Babcock Ranch Eco Tours",
+        "Vino's Picasso",
+        "Kayaking SRQ Tours and Rentals",
+        "Florida Adventures and Rentals",
+        "Everglades Swamp Tours",
+        "Fin Expeditions",
+        "Sea Screamer",
+        "Get Up And Go Kayaking - Rock Springs",
+        "Cocoa Kayaking",
+        "Explorida",
+        "Dreamlander Tours",
+        "Almost Heaven Kayak Adventures",
+        "Rising Tide Explorers",
+        "Parasail Siesta",
+        "Anna Maria Island Dolphin Tours",
+        "Fired Up Fishing Charters",
+        "Paddle Marco",
+        "Treasure Seekers Shell Tours",
+        "A Boat Day",
+        "SURFit USA",
+        "Gulf Coast Expeditions",
+        "Suncoast Tours",
+        "Sight Sea-R Cruises",
+        "Gulf Coast Kayak",
+        "Nature's Discovery Manatee Tours"
+      ]
+    },
+    "Mostly Cloudy": {
+      "cold": [
+        "Hollywood Beach",
+        "The Ernest Hemingway Home and Museum",
+        "Key West Butterfly and Nature Conservatory",
+        "Lincoln Road",
+        "Mallory Square",
+        "Duval Street",
+        "Bayside Marketplace",
+        "Ocean Drive",
+        "Danger Charters",
+        "South Florida Elite Shuttle",
+        "Key West Extreme Adventures Shark Tours",
+        "Key Lime Bike Tours",
+        "Therapy IV Deep Sea Fishing Experience",
+        "Cruisin' Tikis Key Largo"
+      ]
+    },
+    "Mostly Clear": {
+      "cold": [
+        "Canyons Zip Line & Canopy Tours",
+        "Breakout Games - Jacksonville",
+        "Just Chute Me Parasail",
+        "IntraCoastal Experience - Destin Fishing Charter"
+      ]
+    }
+  },
+  "Tennessee": {
+    "Clear": {
+      "cold": [
+        "Sugarlands Distilling Company",
+        "Grand Ole Opry",
+        "Graceland",
+        "Ole Smoky Distillery & Yee-Haw Brewery",
+        "Country Music Hall of Fame and Museum",
+        "Ryman Auditorium",
+        "The Island in Pigeon Forge",
+        "Tennessee Homemade Wines",
+        "Little Bear Winery",
+        "Hillside Winery",
+        "Tennessee Cider Company",
+        "Tennessee Legend Distillery - Winfield Dunn Parkway",
+        "Wild Gals Old Time Photo",
+        "The Escape Game Pigeon Forge",
+        "Naughty Cat Cafe",
+        "Trapped Escape Game",
+        "Smoky Mountain Escape Games",
+        "CLIMB Works Smoky Mountains",
+        "River Rat Whitewater Rafting",
+        "Legacy Mountain Ziplines",
+        "Rip Roaring Adventures",
+        "Wahoo Ziplines",
+        "Cherokee Rafting",
+        "iRide Nashville",
+        "Ocoee Rafting",
+        "Higher Pursuits"
+      ]
+    }
+  },
+  "United States": {
+    "Partly Cloudy": {
+      "cold": [
+        "The Wizarding World of Harry Potter at Universal Orlando Resort",
+        "Hatchet Hangout - Axe Throwing St Pete",
+        "The Magical Mystery Show at Hilton Waikiki Beach",
+        "King Fisher Fleet",
+        "Little Toot Dolphin Adventure",
+        "X-Treme Parasail",
+        "Plantation Adventure Center",
+        "Escape Thrill",
+        "The Magical Mystery Show!",
+        "Hocking Hills Canopy Tours",
+        "Hemingway Water Shuttle",
+        "Coastal Cruises",
+        "Empower Adventures Tampa Bay",
+        "Gunship Helicopters"
+      ]
+    },
+    "Mostly Clear": {
+      "cold": [
+        "Manhattan Skyline",
+        "Escape Room BCS",
+        "Green Light Escape Room",
+        "7 Seas Whale Watch",
+        "Magic Hideaway",
+        "Chicago Greeter",
+        "Maine State Sea Kayak",
+        "In2Scuba Diving Maui Dive Co.",
+        "Satanic Salem Walking Tours",
+        "Gulf Angler Fishing Charters",
+        "Maui Bombers",
+        "Stick'n Rudder Aero Tours"
+      ]
+    },
+    "Clear": {
+      "cold": [
+        "Mountain Valley Winery",
+        "Sugarland Cellars",
+        "Hilton Head Distillery",
+        "The Final Door Escape Room Columbia",
+        "Soul Of Motown",
+        "Smoky Mountain Ziplines",
+        "High Country Adventures",
+        "Raft One"
+      ]
+    },
+    "Mostly Cloudy": {
+      "cold": [
+        "Miami Culinary Tours",
+        "Dan Mick's Guided Jeep Tours",
+        "Bluewater Adventure",
+        "Independent Whitewater",
+        "Islander Girl Snorkel &Tours"
+      ]
+    },
+    "Heavy Rain": {
+      "cold": [
+        "Gastineau Guiding"
+      ]
+    },
+    "Isolated Rain Showers": {
+      "cold": [
+        "Kapalua Ziplines"
+      ]
+    },
+    "Scattered Rain Showers then Mostly Cloudy": {
+      "cold": [
+        "Kona Boys"
+      ]
+    },
+    "Areas Of Fog": {
+      "cold": [
+        "Leavenworth ZipLines"
+      ]
+    }
+  },
+  "Illinois": {
+    "Mostly Clear": {
+      "cold": [
+        "The Art Institute of Chicago",
+        "Millennium Park",
+        "Cloud Gate",
+        "Skydeck Chicago - Willis Tower",
+        "The Magnificent Mile",
+        "Historic Auto Attractions",
+        "Chicago\u2019s First Lady Cruises",
+        "Inside Chicago Walking Tours",
+        "The Haunted Galena Tour Company"
+      ]
+    }
+  },
+  "Arizona": {
+    "Mostly Cloudy": {
+      "cold": [
+        "Grand Canyon South Rim",
+        "Horseshoe Bend",
+        "Southwest Wildlife Conservation Center",
+        "Scottsdale Adventure Tours",
+        "Horseshoe Bend Slot Canyon Tours",
+        "Desert Wolf Tours",
+        "Desert Monsters Tours",
+        "Arizona ATV Adventures",
+        "Navajo Spirit Tours",
+        "Epic Adventure Rides",
+        "Canyon de Chelly Tours",
+        "Grand Canyon Journeys"
+      ]
+    },
+    "Cloudy": {
+      "cold": [
+        "Grand Canyon Adventures",
+        "Four Season Guides",
+        "Canyon Ministries Grand Canyon Christian Tours"
+      ]
+    }
+  },
+  "Washington": {
+    "Mostly Cloudy": {
+      "cold": [
+        "Chihuly Garden and Glass",
+        "Pike Place Market",
+        "Space Needle",
+        "Seattle's Best Tours"
+      ]
+    },
+    "Areas Of Fog": {
+      "cold": [
+        "Mica Moon Zip Tours"
+      ]
+    }
+  },
+  "North Carolina": {
+    "Mostly Clear": {
+      "cold": [
+        "Biltmore",
+        "Back Country Safari Tours",
+        "Navitat Canopy Adventures - Asheville Zipline",
+        "Charlotte NC Tours",
+        "OBX Airplanes"
+      ]
+    },
+    "Clear": {
+      "cold": [
+        "Elijah Mountain Gem Mine and Goat Farm",
+        "Canopy Ridge Farm",
+        "The Swamp Park"
+      ]
+    }
+  },
+  "Hawaii": {
+    "Partly Cloudy then Isolated Rain Showers": {
+      "cold": [
+        "\u202aDiamond Head State Monument",
+        "Toa Luau"
+      ]
+    },
+    "Mostly Clear": {
+      "cold": [
+        "USS Arizona Memorial",
+        "Pearl Harbor National Memorial",
+        "Waikiki Beach",
+        "Hike Maui",
+        "Try Scuba Diving",
+        "Dive Maui",
+        "Maui Plane Rides",
+        "Maui Surfer Girls",
+        "Kevo's Beach Bus",
+        "The Magic Merman Snorkel Charters"
+      ]
+    },
+    "Chance Rain Showers": {
+      "cold": [
+        "Kauai Backcountry Adventures",
+        "Ali'i Air Tours & Charters"
+      ]
+    },
+    "Partly Cloudy": {
+      "cold": [
+        "Royal Star Hawaii Deluxe Tours",
+        "Blue Ocean Adventure Tours",
+        "Hawaii Turtle Tours",
+        "Wasabi Tours Hawaii",
+        "Na Pali Experience",
+        "Kailani Tours Hawaii",
+        "Na Pali Pirates"
+      ]
+    },
+    "Scattered Rain Showers": {
+      "cold": [
+        "Na'alapa Stables - Kahua Ranch",
+        "Koloa Zipline",
+        "CLIMB Works Keana Farms",
+        "Jungle Zipline Maui"
+      ]
+    },
+    "Occasional Rain Showers": {
+      "cold": [
+        "Na Pali Catamaran"
+      ]
+    }
+  },
+  "Massachusetts": {
+    "Mostly Clear": {
+      "cold": [
+        "Fenway Park",
+        "Freedom Trail",
+        "Breakout Games - Boston (Marlborough)",
+        "Boston Segway Tours",
+        "Intrepid Urban Adventures - Boston",
+        "North End Boston Food Tour",
+        "Mobsters and Lobsters"
+      ]
+    }
+  },
+  "Colorado": {
+    "Mostly Cloudy": {
+      "cold": [
+        "Garden of the Gods",
+        "National Museum of World War II Aviation",
+        "Cosmo's Magic Theater",
+        "Echo Canyon River Expeditions",
+        "American Adventure Expeditions",
+        "Royal Gorge Rafting and Zip Line Tours",
+        "Adventures Out West",
+        "Broadmoor Outfitters",
+        "The Adventure Company",
+        "Adventure Paddle Tours",
+        "Aspen Whitewater Rafting",
+        "Whitewater Rafting, LLC",
+        "Amp'd Adventures"
+      ]
+    },
+    "Chance Light Snow then Areas Of Freezing Drizzle": {
+      "cold": [
+        "WildSide 4x4 Tours"
+      ]
+    },
+    "Patchy Drizzle": {
+      "cold": [
+        "ilimo"
+      ]
+    },
+    "Slight Chance Light Snow then Patchy Freezing Drizzle": {
+      "cold": [
+        "Nightly Spirits",
+        "Delicious Denver Food Tours"
+      ]
+    }
+  },
+  "Texas": {
+    "Mostly Clear": {
+      "cold": [
+        "San Antonio River Walk",
+        "The Alamo",
+        "Immersive Gamebox - Grandscape, The Colony",
+        "Waco Tours",
+        "Austin Detours",
+        "Brazos Tours",
+        "YourBikerGang.com",
+        "Dallas Party Bike",
+        "Brazos Bluffs Ranch"
+      ]
+    },
+    "Mostly Cloudy": {
+      "cold": [
+        "Cowgirls and Cowboys in the West"
+      ]
+    }
+  },
+  "District of Columbia": {
+    "Clear": {
+      "cold": [
+        "Lincoln Memorial",
+        "Smithsonian National Museum of Natural History",
+        "Vietnam Veterans Memorial",
+        "Babylon Tours Washington D.C."
+      ]
+    }
+  },
+  "Missouri": {
+    "Clear": {
+      "cold": [
+        "The Haygoods",
+        "The Gateway Arch",
+        "Little Opry Theater",
+        "Dean Z - the Ultimate Elvis",
+        "The Redneck Comedy Bus Tours - Branson"
+      ]
+    }
+  },
+  "Georgia": {
+    "Clear": {
+      "cold": [
+        "Georgia Aquarium",
+        "Savannah Historic District",
+        "Captain Derek's Dolphin Adventure",
+        "Adventure Tours in Motion",
+        "Unexpected Atlanta Walking Tours",
+        "Savannah Bonaventure Dash Tours",
+        "Bonaventure Don"
+      ]
+    },
+    "Mostly Clear": {
+      "cold": [
+        "Jekyll Island \u200bDolphin Tours"
+      ]
+    }
+  },
+  "South Dakota": {
+    "Mostly Cloudy": {
+      "cold": [
+        "Mount Rushmore National Memorial",
+        "Black Hills Helicopters"
+      ]
+    }
+  },
+  "Virginia": {
+    "Mostly Clear": {
+      "cold": [
+        "Colonial Williamsburg",
+        "Breakout Games - Richmond",
+        "Breakout Games - Virginia Beach",
+        "The Wagsters Magic Theatre",
+        "Saltwater Pony Tours"
+      ]
+    },
+    "Clear": {
+      "cold": [
+        "Cville Hop on Tours"
+      ]
+    }
+  },
+  "Michigan": {
+    "Mostly Cloudy": {
+      "cold": [
+        "Saugatuck Dune Rides"
+      ]
+    },
+    "Mostly Cloudy then Chance Snow Showers": {
+      "cold": [
+        "Riptide Ride"
+      ]
+    },
+    "Partly Cloudy": {
+      "cold": [
+        "Detroit Rolling Pub"
+      ]
+    },
+    "Mostly Cloudy then Chance Snow Showers And Patchy Blowing Snow": {
+      "cold": [
+        "The Magic Shuttle Bus"
+      ]
+    }
+  },
+  "Alaska": {
+    "Light Snow Likely": {
+      "cold": [
+        "Fountainhead Antique Auto Museum",
+        "Black Spruce Dog Sledding"
+      ]
+    },
+    "Heavy Rain": {
+      "cold": [
+        "Juneau Tours & Whale Watch",
+        "Alaska Tales",
+        "Harv and Marv's Outback Alaska",
+        "Baranof Fishing Excursions",
+        "Liquid Alaska Tours"
+      ]
+    },
+    "Light Snow": {
+      "cold": [
+        "Rod's Alaskan Guide Service"
+      ]
+    },
+    "Chance Light Snow": {
+      "cold": [
+        "New Wave Adventures"
+      ]
+    }
+  },
+  "Delaware": {
+    "Mostly Clear": {
+      "cold": [
+        "Air Mobility Command Museum",
+        "Cape Water Tours"
+      ]
+    }
+  },
+  "Nebraska": {
+    "Mostly Clear": {
+      "cold": [
+        "Museum of American Speed"
+      ]
+    }
+  },
+  "Kansas": {
+    "Mostly Clear": {
+      "cold": [
+        "Safari Zoological Park"
+      ]
+    }
+  },
+  "Indiana": {
+    "Mostly Clear": {
+      "cold": [
+        "Horseshoe Casino",
+        "Horseshoe Hammond"
+      ]
+    }
+  },
+  "Pennsylvania": {
+    "Mostly Clear": {
+      "cold": [
+        "Harrah's Philadelphia",
+        "Grim Philly Twilight Tours"
+      ]
+    }
+  },
+  "Ohio": {
+    "Partly Cloudy": {
+      "cold": [
+        "The Escape Room USA - Columbus",
+        "The Escape Game Columbus"
+      ]
+    },
+    "Mostly Clear": {
+      "cold": [
+        "Breakout Games - Dayton",
+        "The Escape Game Cincinnati",
+        "Breakout Games - Cincinnati (West Chester)",
+        "American Legacy Tours"
+      ]
+    }
+  },
+  "Wisconsin": {
+    "Partly Cloudy": {
+      "cold": [
+        "Elusive Escape Rooms",
+        "Dells Escape Rooms",
+        "Bigfoot Zipline"
+      ]
+    },
+    "Mostly Cloudy": {
+      "cold": [
+        "Door County Trolley",
+        "Sail Door County"
+      ]
+    }
+  },
+  "West Virginia": {
+    "Mostly Clear": {
+      "cold": [
+        "Pomona Salt Cave And Spa"
+      ]
+    },
+    "Partly Cloudy": {
+      "cold": [
+        "West Virginia Adventures"
+      ]
+    }
+  },
+  "Wyoming": {
+    "Chance Light Snow": {
+      "cold": [
+        "Jackson Hole Eco Tour Adventures",
+        "BrushBuck Wildlife Tours"
+      ]
+    },
+    "Cloudy then Chance Light Snow": {
+      "cold": [
+        "Solitude Float Trips"
+      ]
+    }
+  },
+  "Utah": {
+    "Mostly Cloudy": {
+      "cold": [
+        "Kanab Tour Company",
+        "East Zion Adventures",
+        "Dreamland Safari Tours",
+        "Moab Tourism Center",
+        "Xtreme 4x4 Tours",
+        "ROAM Outdoor Adventure Co",
+        "Epic 4X4 Adventures",
+        "Utah Outdoor Adventures",
+        "All Seasons Adventures",
+        "Outlaw Adventure Tours",
+        "Coral Cliffs Tours of Kanab"
+      ]
+    },
+    "Partly Cloudy": {
+      "cold": [
+        "ROAM East Zion"
+      ]
+    }
+  },
+  "Alabama": {
+    "Partly Cloudy": {
+      "cold": [
+        "The Fun Boats Dolphin Cruises"
+      ]
+    }
+  },
+  "Arkansas": {
+    "Clear": {
+      "cold": [
+        "Ozark Mountain Ziplines"
+      ]
+    }
+  },
+  "South Carolina": {
+    "Clear": {
+      "cold": [
+        "Charleston Sailing Charters",
+        "Undiscovered Charleston",
+        "Charleston Black Cab Company",
+        "Charleston Fossil Adventures"
+      ]
+    }
+  },
+  "Idaho": {
+    "Areas Of Fog": {
+      "cold": [
+        "Timberline Adventures"
+      ]
+    }
+  },
+  "Montana": {
+    "Mostly Cloudy": {
+      "cold": [
+        "Geyser Whitewater Expeditions"
+      ]
+    },
+    "Areas Of Fog": {
+      "cold": [
+        "Wild River Adventures - Day Tours"
+      ]
+    }
+  },
+  "Maine": {
+    "Partly Cloudy": {
+      "cold": [
+        "SK Tours Of Maine, LLC",
+        "Skydive New England"
+      ]
+    },
+    "Mostly Clear": {
+      "cold": [
+        "Scenic Flights of Acadia",
+        "The Real Portland Tour"
+      ]
+    }
+  },
+  "New Jersey": {
+    "Mostly Clear": {
+      "cold": [
+        "Salt Marsh Safari The Skimmer"
+      ]
+    }
+  },
+  "Oregon": {
+    "Partly Cloudy then Patchy Fog": {
+      "cold": [
+        "Indigo Creek Outfitters"
+      ]
+    }
+  }
+}

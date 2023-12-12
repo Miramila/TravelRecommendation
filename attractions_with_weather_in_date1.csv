@@ -1,0 +1,390 @@
+Attraction Name,Latitude,Longitude,State,Type,Weather,Temperature
+Central Park,40.7825547,-73.9655834,New York,park,Mostly Clear,33.0
+The National 9/11 Memorial & Museum,40.7115776,-74.0133362,New York,museum,Mostly Clear,33.0
+Empire State Building,40.7484405,-73.98566439999999,New York,museum,Mostly Clear,33.0
+Fountains of Bellagio,36.11271869999999,-115.1739109,Nevada,point_of_interest,Partly Cloudy,43.0
+Alcatraz Island,37.8269775,-122.4229555,California,point_of_interest,Partly Cloudy,51.0
+The Metropolitan Museum of Art,40.7794366,-73.963244,New York,museum,Mostly Clear,33.0
+The High Line,40.7479925,-74.0047649,New York,park,Mostly Clear,32.0
+The National WWII Museum,29.9430711,-90.07053169999999,Louisiana,museum,Partly Cloudy,43.0
+Louisville Mega Cavern,38.2012259,-85.703929,Kentucky,point_of_interest,Clear,28.0
+Golden Gate Bridge,37.8199109,-122.4785598,California,point_of_interest,Partly Cloudy,48.0
+Universal Islands of Adventure,28.471842,-81.4708881,Florida,establishment,Partly Cloudy,48.0
+Statue of Liberty,40.6892494,-74.04450039999999,New York,point_of_interest,Mostly Clear,33.0
+USS Midway Museum,32.7137398,-117.1751265,California,museum,Partly Cloudy then Patchy Fog,50.0
+San Diego Zoo,32.7360353,-117.1509849,California,point_of_interest,Partly Cloudy then Patchy Fog,51.0
+Sugarlands Distilling Company,35.7114964,-83.5186337,Tennessee,point_of_interest,Clear,26.0
+Grand Central Terminal,40.7533582,-73.9768041,New York,point_of_interest,Mostly Clear,33.0
+The Wizarding World of Harry Potter at Universal Orlando Resort,28.4796116,-81.4693747,United States,establishment,Partly Cloudy,48.0
+The Art Institute of Chicago,41.8795845,-87.62371329999999,Illinois,museum,Mostly Clear,31.0
+Grand Canyon South Rim,36.0604246,-112.1076024,Arizona,park,Mostly Cloudy,24.0
+Brooklyn Bridge,40.7060855,-73.9968643,New York,landmark,Mostly Clear,33.0
+Chihuly Garden and Glass,47.6205599,-122.3504476,Washington,museum,Mostly Cloudy,38.0
+Biltmore,35.5527514,-82.56369049999999,North Carolina,museum,Mostly Clear,22.0
+Red Rock Canyon National Conservation Area,36.1944273,-115.4382967,Nevada,park,Mostly Cloudy,36.0
+Discovery Cove,28.4050951,-81.4631122,Florida,establishment,Partly Cloudy,48.0
+‪Diamond Head State Monument,21.2637984,-157.8040943,Hawaii,park,Partly Cloudy then Isolated Rain Showers,71.0
+NASA Kennedy Space Center Visitor Complex,28.6144578,-80.694108,Florida,establishment,Partly Cloudy,52.0
+USS Arizona Memorial,21.3647161,-157.949902,Hawaii,museum,Mostly Clear,72.0
+Fenway Park,42.3466764,-71.0972178,Massachusetts,point_of_interest,Mostly Clear,29.0
+Millennium Park,41.8825524,-87.62255139999999,Illinois,park,Mostly Clear,31.0
+Grand Ole Opry,36.2068571,-86.69210849999999,Tennessee,point_of_interest,Clear,28.0
+Garden of the Gods,38.8717933,-104.8861757,Colorado,park,Mostly Cloudy,23.0
+San Antonio River Walk,29.4229737,-98.486034,Texas,park,Mostly Clear,45.0
+Lincoln Memorial,38.8892686,-77.050176,District of Columbia,park,Clear,28.0
+Manhattan Skyline,40.76353690000001,-73.9780136,United States,point_of_interest,Mostly Clear,33.0
+Graceland,35.0476912,-90.02604930000001,Tennessee,museum,Clear,35.0
+Hollywood Beach,26.0086787,-80.1170355,Florida,political,Mostly Cloudy,68.0
+Freedom Trail,42.3668926,-71.0585022,Massachusetts,route,Mostly Clear,29.0
+The Getty Center,34.07803579999999,-118.4740954,California,museum,Partly Cloudy,48.0
+Griffith Observatory,34.1184341,-118.3003935,California,museum,Partly Cloudy,48.0
+Horseshoe Bend,36.8790612,-111.5103627,Arizona,natural_feature,Mostly Cloudy,29.0
+The Haygoods,36.6373634,-93.2796249,Missouri,point_of_interest,Clear,32.0
+Bellagio Conservatory & Botanical Garden,36.1119912,-115.1765648,Nevada,park,Partly Cloudy,43.0
+Pearl Harbor National Memorial,21.3675985,-157.938858,Hawaii,museum,Mostly Clear,72.0
+Georgia Aquarium,33.763382,-84.3951098,Georgia,establishment,Clear,31.0
+Ole Smoky Distillery & Yee-Haw Brewery,35.711171,-83.519503,Tennessee,point_of_interest,Clear,26.0
+One World Observatory,40.7130062,-74.013173,New York,point_of_interest,Mostly Clear,33.0
+High Roller,36.1176324,-115.168294,Nevada,point_of_interest,Partly Cloudy,43.0
+Bryant Park,40.7535367,-73.9829529,New York,park,Mostly Clear,33.0
+The Ernest Hemingway Home and Museum,24.5511923,-81.8006162,Florida,museum,Mostly Cloudy,66.0
+Savannah Historic District,32.0761241,-81.0990759,Georgia,point_of_interest,Clear,38.0
+Rockefeller Center,40.7587402,-73.9786736,New York,point_of_interest,Mostly Clear,33.0
+Pike Place Market,47.6088107,-122.3415706,Washington,political,Mostly Cloudy,40.0
+Country Music Hall of Fame and Museum,36.1582632,-86.7761258,Tennessee,museum,Clear,28.0
+Key West Butterfly and Nature Conservatory,24.5475638,-81.79682489999999,Florida,park,Mostly Cloudy,66.0
+Ryman Auditorium,36.1612481,-86.7784714,Tennessee,museum,Clear,28.0
+La Jolla Cove,32.8503895,-117.2729435,California,natural_feature,Patchy Fog,52.0
+Space Needle,47.6205063,-122.3492774,Washington,point_of_interest,Mostly Cloudy,38.0
+Smithsonian National Museum of Natural History,38.8912662,-77.0260654,District of Columbia,museum,Clear,28.0
+Clearwater Beach,27.972065,-82.8285877,Florida,political,Partly Cloudy,50.0
+Balboa Park,32.7341479,-117.144553,California,museum,Partly Cloudy then Patchy Fog,51.0
+New York Public Library,40.7127753,-74.0059728,New York,political,Mostly Clear,33.0
+The Museum of Modern Art (MoMA),40.7614327,-73.97762159999999,New York,establishment,Mostly Clear,33.0
+Cloud Gate,41.8826572,-87.6233039,Illinois,point_of_interest,Mostly Clear,31.0
+The Alamo,29.4259671,-98.4861419,Texas,museum,Mostly Clear,45.0
+Mount Rushmore National Memorial,43.8803357,-103.4537746,South Dakota,park,Mostly Cloudy,23.0
+Skydeck Chicago - Willis Tower,41.87887610000001,-87.635915,Illinois,museum,Mostly Clear,31.0
+Monterey Bay Aquarium,36.6182017,-121.9019479,California,establishment,Mostly Cloudy,47.0
+The Magnificent Mile,41.894809,-87.6242142,Illinois,political,Mostly Clear,31.0
+Jackson Square,29.9574024,-90.0629495,Louisiana,park,Partly Cloudy,44.0
+Pier 39,37.80867300000001,-122.409821,California,point_of_interest,Partly Cloudy,51.0
+Stetson Mansion,29.0232412,-81.3230028,Florida,point_of_interest,Partly Cloudy,45.0
+Colonial Williamsburg,37.2707022,-76.7074571,Virginia,political,Mostly Clear,27.0
+Frenchmen Street,29.9641516,-90.0577984,Louisiana,route,Partly Cloudy,44.0
+Saugatuck Dune Rides,42.6769887,-86.183696,Michigan,point_of_interest,Mostly Cloudy,32.0
+The Island in Pigeon Forge,35.8011618,-83.564725,Tennessee,route,Clear,23.0
+The Gateway Arch,38.6251269,-90.1867504,Missouri,point_of_interest,Clear,32.0
+Waikiki Beach,21.2793462,-157.8291847,Hawaii,political,Mostly Clear,73.0
+Lincoln Road,25.7907514,-80.1318328,Florida,route,Mostly Cloudy,66.0
+Disney California Adventure Park,33.806112,-117.920859,California,establishment,Partly Cloudy then Patchy Fog,49.0
+Vietnam Veterans Memorial,38.8912933,-77.04771319999999,District of Columbia,park,Clear,28.0
+Busch Gardens,28.037066,-82.4194607,Florida,establishment,Partly Cloudy,45.0
+Lombard Street,37.8020074,-122.4195532,California,route,Mostly Cloudy,49.0
+McCarthy's Wildlife,26.7676686,-80.2459484,Florida,point_of_interest,Partly Cloudy,59.0
+17-Mile Drive,36.6036929,-121.9451473,California,route,Mostly Cloudy,46.0
+Mallory Square,24.5598677,-81.8076774,Florida,point_of_interest,Mostly Cloudy,66.0
+Santa Monica Pier,34.0082821,-118.4987585,California,point_of_interest,Partly Cloudy,47.0
+Duval Street,24.5590987,-81.8052301,Florida,route,Mostly Cloudy,66.0
+Bayside Marketplace,25.7784025,-80.18679379999999,Florida,point_of_interest,Mostly Cloudy,66.0
+Ocean Drive,25.7685168,-80.1332062,Florida,route,Mostly Cloudy,67.0
+Tennessee Homemade Wines,35.8327422,-83.56840079999999,Tennessee,establishment,Clear,23.0
+Little Bear Winery,35.7129156,-83.5145656,Tennessee,food,Clear,26.0
+Mountain Valley Winery,35.8180324,-83.5793169,United States,food,Clear,23.0
+Elijah Mountain Gem Mine and Goat Farm,35.3244604,-82.50380539999999,North Carolina,point_of_interest,Clear,25.0
+Southwest Wildlife Conservation Center,33.7314745,-111.7468092,Arizona,park,Mostly Cloudy,50.0
+Sugarland Cellars,35.7070108,-83.522622,United States,food,Clear,26.0
+National Museum of World War II Aviation,38.8203508,-104.7204888,Colorado,museum,Mostly Cloudy,23.0
+Fountainhead Antique Auto Museum,64.8604433,-147.7137352,Alaska,museum,Light Snow Likely,-1.0
+Hillside Winery,35.8374946,-83.5610859,Tennessee,food,Clear,23.0
+Air Mobility Command Museum,39.1190036,-75.4568074,Delaware,museum,Mostly Clear,28.0
+Hilton Head Distillery,32.2239659,-80.7016202,United States,point_of_interest,Clear,40.0
+Museum of American Speed,40.8186485,-96.7256592,Nebraska,museum,Mostly Clear,25.0
+Tennessee Cider Company,35.7132217,-83.5137398,Tennessee,establishment,Clear,26.0
+Dig This,35.9480152,-115.1758659,Nevada,establishment,Mostly Cloudy,40.0
+The Beatles - Love - Cirque du Soleil,36.1204933,-115.1747142,Nevada,point_of_interest,Partly Cloudy,43.0
+Cosmo's Magic Theater,38.89612899999999,-104.842006,Colorado,point_of_interest,Mostly Cloudy,23.0
+Safari Zoological Park,37.0142747,-95.9007922,Kansas,park,Mostly Clear,29.0
+Gracianna Winery,38.5251895,-122.8658955,California,establishment,Partly Cloudy then Patchy Fog,39.0
+Oakland California Temple & Visitors' Center,37.80810719999999,-122.1990111,California,establishment,Mostly Cloudy,46.0
+Horseshoe Casino,41.694271,-87.5070037,Indiana,establishment,Mostly Clear,31.0
+Tennessee Legend Distillery - Winfield Dunn Parkway,35.887853,-83.5775334,Tennessee,point_of_interest,Clear,23.0
+Little Opry Theater,36.6535949,-93.2873831,Missouri,point_of_interest,Clear,32.0
+Horseshoe Hammond,41.694271,-87.5070037,Indiana,establishment,Mostly Clear,31.0
+Black Spruce Dog Sledding,64.9929219,-148.040631,Alaska,point_of_interest,Light Snow Likely,1.0
+Hatchet Hangout - Axe Throwing St Pete,27.7708429,-82.66561050000001,United States,point_of_interest,Partly Cloudy,53.0
+Historic Auto Attractions,42.461352,-89.0142238,Illinois,museum,Mostly Clear,25.0
+Wild Gals Old Time Photo,35.8242701,-83.5760857,Tennessee,point_of_interest,Clear,23.0
+Harrah's Philadelphia,39.8505188,-75.3492296,Pennsylvania,establishment,Mostly Clear,29.0
+"Immersive Gamebox - Grandscape, The Colony",33.0745078,-96.86028,Texas,point_of_interest,Mostly Clear,40.0
+Kauai Backcountry Adventures,21.9950123,-159.3551132,Hawaii,point_of_interest,Chance Rain Showers,72.0
+Clue Carre - New Orleans' First Live Escape Game,29.9514538,-90.0722769,Louisiana,point_of_interest,Partly Cloudy,43.0
+The Escape Room USA - Columbus,39.9717077,-83.0028371,Ohio,point_of_interest,Partly Cloudy,27.0
+Royal Star Hawaii Deluxe Tours,21.3315476,-157.8858822,Hawaii,point_of_interest,Partly Cloudy,73.0
+Toa Luau,21.6359328,-158.0541769,Hawaii,point_of_interest,Partly Cloudy then Isolated Rain Showers,68.0
+The Escape Game Pigeon Forge,35.8032637,-83.57006299999999,Tennessee,point_of_interest,Clear,23.0
+Naughty Cat Cafe,35.0112793,-85.3265924,Tennessee,point_of_interest,Clear,29.0
+Epcot World Showcase,28.3718246,-81.549381,Florida,establishment,Partly Cloudy,47.0
+Over The Falls Tours,43.1024441,-78.96161839999999,New York,point_of_interest,Mostly Cloudy then Chance Snow Showers,30.0
+The Escape Game Orlando,28.4482115,-81.47050689999999,Florida,point_of_interest,Partly Cloudy,47.0
+The Little Vegas Chapel,36.1548616,-115.1516056,Nevada,point_of_interest,Partly Cloudy,43.0
+Cowgirls and Cowboys in the West,35.0146205,-101.6626929,Texas,point_of_interest,Mostly Cloudy,30.0
+The Magical Mystery Show at Hilton Waikiki Beach,21.275445,-157.8220021,United States,point_of_interest,Partly Cloudy,71.0
+Trapped Escape Game,35.8063698,-83.57861919999999,Tennessee,point_of_interest,Clear,23.0
+Las Vegas ATVs,36.1049958,-115.1853626,Nevada,point_of_interest,Partly Cloudy,43.0
+Juneau Tours & Whale Watch,58.30049329999999,-134.4201306,Alaska,political,Heavy Rain,39.0
+Las Vegas Shooting Center,36.095994,-115.1817368,Nevada,point_of_interest,Partly Cloudy,43.0
+Beat The Bomb,40.7030771,-73.9838659,New York,point_of_interest,Mostly Clear,33.0
+9/11 Ground Zero Tour,40.7113389,-74.0090029,New York,point_of_interest,Mostly Clear,33.0
+The Final Door Escape Room Columbia,33.9815387,-81.064883,United States,point_of_interest,Clear,30.0
+Dean Z - the Ultimate Elvis,36.6373405,-93.2796631,Missouri,point_of_interest,Clear,32.0
+Immersive Gamebox - Lower East Side,40.71814,-73.9885917,New York,point_of_interest,Mostly Clear,33.0
+Breakout Games - Boston (Marlborough),42.3381974,-71.5848634,Massachusetts,point_of_interest,Mostly Clear,28.0
+Smoky Mountain Escape Games,35.8073735,-83.5750104,Tennessee,point_of_interest,Clear,23.0
+King Fisher Fleet,26.9282576,-82.0639672,United States,point_of_interest,Partly Cloudy,45.0
+Alaska Tales,58.2987361,-134.4045556,Alaska,point_of_interest,Heavy Rain,39.0
+Soul Of Motown,35.8131233,-83.57860389999999,United States,point_of_interest,Clear,23.0
+Elusive Escape Rooms,43.6047754,-89.7918601,Wisconsin,point_of_interest,Partly Cloudy,23.0
+Blue Ocean Adventure Tours,21.95939,-159.692097,Hawaii,point_of_interest,Partly Cloudy,71.0
+Na'alapa Stables - Kahua Ranch,20.1177634,-155.7874267,Hawaii,point_of_interest,Scattered Rain Showers,59.0
+Koloa Zipline,21.903717,-159.464447,Hawaii,point_of_interest,Scattered Rain Showers,69.0
+Escape Room BCS,30.6225301,-96.3116005,United States,point_of_interest,Mostly Clear,39.0
+Gray Line of Niagara Falls/Buffalo,42.88644679999999,-78.8783689,New York,political,Snow Showers Likely,31.0
+Breakout Games - Dayton,39.6284222,-84.1960675,Ohio,point_of_interest,Mostly Clear,27.0
+Chicago’s First Lady Cruises,41.8884395,-87.6242388,Illinois,point_of_interest,Mostly Clear,31.0
+Hawaii Turtle Tours,21.3034985,-157.8555149,Hawaii,point_of_interest,Partly Cloudy,74.0
+Devon Transportation,28.4350953,-81.4809212,Florida,point_of_interest,Partly Cloudy,47.0
+Miami Culinary Tours,25.7741483,-80.1385432,United States,point_of_interest,Mostly Cloudy,67.0
+Danger Charters,24.558023,-81.80722899999999,Florida,park,Mostly Cloudy,66.0
+Pomona Salt Cave And Spa,37.8819389,-80.2271804,West Virginia,establishment,Mostly Clear,19.0
+Exotics Racing,35.930063,-115.1898532,Nevada,point_of_interest,Mostly Cloudy,40.0
+Breakout Games - Richmond,37.4955696,-77.5646742,Virginia,point_of_interest,Mostly Clear,25.0
+Fun 2 Dive Manatee Tours,28.8971994,-82.59118029999999,Florida,park,Partly Cloudy,37.0
+Green Light Escape Room,34.2369668,-77.9485462,United States,point_of_interest,Mostly Clear,32.0
+Gastineau Guiding,58.2879229,-134.3873782,United States,point_of_interest,Heavy Rain,40.0
+Foods of New York Tours,40.7127753,-74.0059728,New York,political,Mostly Clear,33.0
+The Escape Game Cincinnati,39.0970424,-84.5127277,Ohio,point_of_interest,Mostly Clear,28.0
+Breakout Games - Virginia Beach,36.8408343,-76.1088884,Virginia,point_of_interest,Mostly Clear,34.0
+Wasabi Tours Hawaii,19.6753791,-156.010155,Hawaii,point_of_interest,Partly Cloudy,70.0
+Grim Philly Twilight Tours,39.9509055,-75.15002059999999,Pennsylvania,point_of_interest,Mostly Clear,29.0
+River Ventures,28.8918273,-82.58636969999999,Florida,point_of_interest,Partly Cloudy,37.0
+Las Vegas Elite Offroad,36.2776718,-115.0227809,Nevada,point_of_interest,Mostly Cloudy,41.0
+7 Seas Whale Watch,42.6113606,-70.663668,United States,park,Mostly Clear,32.0
+Little Toot Dolphin Adventure,27.9765564,-82.8277861,United States,point_of_interest,Partly Cloudy,50.0
+X-Treme Parasail,21.2935878,-157.8553955,United States,point_of_interest,Partly Cloudy,74.0
+Canyons Zip Line & Canopy Tours,29.2704414,-82.1798546,Florida,establishment,Mostly Clear,37.0
+Breakout Games - Jacksonville,30.2252313,-81.5871889,Florida,point_of_interest,Mostly Clear,43.0
+The Wagsters Magic Theatre,37.31687610000001,-76.7387474,Virginia,point_of_interest,Mostly Clear,25.0
+South Florida Elite Shuttle,26.0971278,-80.13012239999999,Florida,point_of_interest,Mostly Cloudy,64.0
+CLIMB Works Smoky Mountains,35.7633413,-83.32645649999999,Tennessee,point_of_interest,Clear,28.0
+Get Up And Go Kayaking - Tampa Bay,27.763383,-82.5436722,Florida,natural_feature,,
+Plantation Adventure Center,28.8787113,-82.5902581,United States,point_of_interest,Partly Cloudy,37.0
+WildSide 4x4 Tours,40.3765744,-105.5207615,Colorado,point_of_interest,Chance Light Snow then Areas Of Freezing Drizzle,20.0
+Breakout Games - Cincinnati (West Chester),39.329095,-84.42444590000001,Ohio,point_of_interest,Mostly Clear,27.0
+Dells Escape Rooms,43.6278095,-89.7725684,Wisconsin,point_of_interest,Partly Cloudy,23.0
+River Rat Whitewater Rafting,35.814233,-83.1444235,Tennessee,point_of_interest,Clear,24.0
+CLIMB Works Keana Farms,21.6724196,-157.9419322,Hawaii,point_of_interest,Scattered Rain Showers,74.0
+Just Chute Me Parasail,30.3923748,-86.4995974,Florida,point_of_interest,Mostly Clear,43.0
+Kapalua Ziplines,20.9993506,-156.6547672,United States,point_of_interest,Isolated Rain Showers,72.0
+The Escape Game New Orleans,29.953033,-90.0654436,Louisiana,point_of_interest,Partly Cloudy,43.0
+Jackson Hole Eco Tour Adventures,43.4611082,-110.7961975,Wyoming,point_of_interest,Chance Light Snow,20.0
+Grand Adventures Tours,36.0983521,-115.1972275,Nevada,point_of_interest,Partly Cloudy,43.0
+BrushBuck Wildlife Tours,43.4731868,-110.7900965,Wyoming,point_of_interest,Chance Light Snow,20.0
+Escape Thrill,28.0383472,-82.73664040000001,United States,point_of_interest,Partly Cloudy,48.0
+Waco Tours,31.5515108,-97.1313596,Texas,point_of_interest,Mostly Clear,37.0
+Echo Canyon River Expeditions,38.4968868,-105.3223882,Colorado,point_of_interest,Mostly Cloudy,22.0
+Scottsdale Adventure Tours,33.4948764,-111.9216734,Arizona,political,Mostly Cloudy,49.0
+The Magical Mystery Show!,21.275445,-157.8220021,United States,point_of_interest,Partly Cloudy,71.0
+Horseshoe Bend Slot Canyon Tours,36.9071924,-111.4812945,Arizona,point_of_interest,Mostly Cloudy,28.0
+Kanab Tour Company,37.0421112,-112.5138465,Utah,point_of_interest,Mostly Cloudy,29.0
+Door County Trolley,45.0604782,-87.2734832,Wisconsin,establishment,Mostly Cloudy,27.0
+East Zion Adventures,37.2724667,-112.8747667,Utah,park,Mostly Cloudy,26.0
+Dreamland Safari Tours,37.0426883,-112.5197347,Utah,park,Mostly Cloudy,29.0
+Na Pali Experience,21.959653,-159.691901,Hawaii,point_of_interest,Partly Cloudy,71.0
+Babcock Ranch Eco Tours,26.8569306,-81.72121369999999,Florida,park,Partly Cloudy,46.0
+Vino's Picasso,26.52046,-81.869756,Florida,point_of_interest,Partly Cloudy,50.0
+Captain Derek's Dolphin Adventure,32.0151813,-80.8827944,Georgia,point_of_interest,Clear,43.0
+Bikes And Hikes LA Tours,34.0889704,-118.3766489,California,park,Partly Cloudy,52.0
+Desert Wolf Tours,33.8657657,-112.1498589,Arizona,point_of_interest,Mostly Cloudy,51.0
+Kayaking SRQ Tours and Rentals,27.3092988,-82.5694852,Florida,point_of_interest,Partly Cloudy,48.0
+Florida Adventures and Rentals,25.9557864,-81.72380609999999,Florida,point_of_interest,Partly Cloudy,54.0
+Smoky Mountain Ziplines,35.7629741,-83.56138539999999,United States,point_of_interest,Clear,22.0
+American Adventure Expeditions,38.8123675,-106.1055572,Colorado,point_of_interest,Mostly Cloudy,18.0
+Hike Maui,20.7983626,-156.3319253,Hawaii,natural_feature,Mostly Clear,59.0
+The Escape Game Columbus,40.0499752,-82.9160277,Ohio,point_of_interest,Partly Cloudy,27.0
+Magic Hideaway,29.89203869999999,-81.3134221,United States,point_of_interest,Mostly Clear,46.0
+Harv and Marv's Outback Alaska,58.3811381,-134.5696199,Alaska,point_of_interest,Heavy Rain,38.0
+Legacy Mountain Ziplines,35.8078019,-83.46615690000002,Tennessee,establishment,Clear,23.0
+Moab Tourism Center,38.5640604,-109.5501787,Utah,point_of_interest,Mostly Cloudy,22.0
+Royal Gorge Rafting and Zip Line Tours,38.431109,-105.2688797,Colorado,natural_feature,Mostly Cloudy,26.0
+American Legacy Tours,39.11061040000001,-84.51523999999999,Ohio,point_of_interest,Mostly Clear,28.0
+Hocking Hills Canopy Tours,39.5785145,-82.51937439999999,United States,point_of_interest,Partly Cloudy,25.0
+Jekyll Island ​Dolphin Tours,31.0583102,-81.4228371,Georgia,point_of_interest,Mostly Clear,40.0
+Mint Julep Experiences - Louisville,38.2526339,-85.7545983,Kentucky,point_of_interest,Clear,29.0
+Kailani Tours Hawaii,19.675163,-156.012821,Hawaii,point_of_interest,Partly Cloudy,72.0
+Everglades Swamp Tours,26.1453465,-80.62457599999999,Florida,park,Partly Cloudy,57.0
+Chicago Greeter,41.8848289,-87.62533839999999,United States,point_of_interest,Mostly Clear,31.0
+Na Pali Catamaran,22.2027884,-159.497409,Hawaii,point_of_interest,Occasional Rain Showers,69.0
+High Country Adventures,35.1238348,-84.71044239999999,United States,point_of_interest,Clear,22.0
+Austin Detours,30.2649695,-97.737223,Texas,point_of_interest,Mostly Clear,42.0
+Dream Racing,36.2721933,-115.0114522,Nevada,car_rental,Mostly Cloudy,41.0
+Xtreme 4x4 Tours,38.539864,-109.515887,Utah,point_of_interest,Mostly Cloudy,24.0
+Key West Extreme Adventures Shark Tours,24.5579189,-81.807622,Florida,point_of_interest,Mostly Cloudy,66.0
+Fin Expeditions,28.3095292,-80.61408209999999,Florida,point_of_interest,Partly Cloudy,56.0
+Sea Screamer,30.1456256,-85.74879760000002,Florida,establishment,Partly Cloudy,42.0
+Back Country Safari Tours,36.3735952,-75.8279745,North Carolina,point_of_interest,Mostly Clear,42.0
+Get Up And Go Kayaking - Rock Springs,28.7683992,-81.5037645,Florida,point_of_interest,Partly Cloudy,44.0
+ilimo,39.6553915,-105.0135083,Colorado,point_of_interest,Patchy Drizzle,27.0
+Key Lime Bike Tours,24.5598112,-81.8048962,Florida,point_of_interest,Mostly Cloudy,66.0
+Desert Monsters Tours,33.626265,-111.9421726,Arizona,point_of_interest,Mostly Cloudy,51.0
+Adventure Tours in Motion,32.0722226,-81.09547429999999,Georgia,point_of_interest,Clear,38.0
+The Fun Boats Dolphin Cruises,30.2778387,-87.56031039999999,Alabama,point_of_interest,Partly Cloudy,41.0
+ROAM Outdoor Adventure Co,37.1211491,-112.5639616,Utah,point_of_interest,Mostly Cloudy,27.0
+Cocoa Kayaking,28.3125558,-80.6354446,Florida,point_of_interest,Partly Cloudy,56.0
+Red Rock Scooter Tours,36.1766006,-115.3624168,Nevada,point_of_interest,Partly Cloudy,42.0
+TOURS by STEVEN,29.9646051,-90.04647349999999,Louisiana,point_of_interest,Partly Cloudy,44.0
+Arizona ATV Adventures,34.86137000000001,-111.8140731,Arizona,point_of_interest,Mostly Cloudy,42.0
+Adventures Out West,38.820308,-104.8414033,Colorado,point_of_interest,Mostly Cloudy,23.0
+Bigfoot Zipline,43.6075391,-89.7903311,Wisconsin,point_of_interest,Partly Cloudy,23.0
+Ozark Mountain Ziplines,36.4273344,-93.7849651,Arkansas,establishment,Clear,32.0
+Try Scuba Diving,21.2838343,-157.8464546,Hawaii,point_of_interest,Mostly Clear,72.0
+Charleston Sailing Charters,32.7790565,-79.9510749,South Carolina,point_of_interest,Clear,42.0
+Cape Water Tours,38.778922,-75.1407713,Delaware,point_of_interest,Mostly Clear,31.0
+Explorida,28.89896229999999,-82.5928079,Florida,point_of_interest,Partly Cloudy,36.0
+Timberline Adventures,47.6730938,-116.7828051,Idaho,point_of_interest,Areas Of Fog,33.0
+Rip Roaring Adventures,35.8140068,-83.1455764,Tennessee,point_of_interest,Clear,24.0
+Dan Mick's Guided Jeep Tours,38.58232599999999,-109.5522684,United States,point_of_interest,Mostly Cloudy,20.0
+Wahoo Ziplines,35.8517404,-83.6099983,Tennessee,establishment,Clear,23.0
+Navajo Spirit Tours,36.9838829,-110.1129551,Arizona,point_of_interest,Mostly Cloudy,26.0
+Therapy IV Deep Sea Fishing Experience,25.906601,-80.1244467,Florida,point_of_interest,Mostly Cloudy,68.0
+Epic 4X4 Adventures,38.5575334,-109.5421163,Utah,point_of_interest,Mostly Cloudy,22.0
+Babylon Tours Washington D.C.,38.88722,-77.02087600000002,District of Columbia,point_of_interest,Clear,28.0
+Inside Chicago Walking Tours,41.8781136,-87.6297982,Illinois,political,Mostly Clear,31.0
+Dive Maui,20.8842762,-156.6853024,Hawaii,point_of_interest,Mostly Clear,74.0
+Nice Guy Tours,40.736328,-74.000782,New York,point_of_interest,Mostly Clear,32.0
+Boston Segway Tours,42.3593705,-71.0525068,Massachusetts,point_of_interest,Mostly Clear,31.0
+Baranof Fishing Excursions,55.3396748,-131.6431448,Alaska,point_of_interest,Heavy Rain,40.0
+Cherokee Rafting,35.1152819,-84.6940036,Tennessee,point_of_interest,Clear,23.0
+New York Media Boat / Adventure Sightseeing Tours,40.7122897,-74.01697469999999,New York,point_of_interest,Mostly Clear,33.0
+Liquid Alaska Tours,58.2987361,-134.4045556,Alaska,point_of_interest,Heavy Rain,39.0
+Navitat Canopy Adventures - Asheville Zipline,35.5950581,-82.5514869,North Carolina,political,Mostly Clear,23.0
+Geyser Whitewater Expeditions,45.2461953,-111.2521984,Montana,point_of_interest,Mostly Cloudy,17.0
+Maui Plane Rides,20.8982384,-156.4257157,Hawaii,point_of_interest,Mostly Clear,68.0
+Dreamlander Tours,25.9220984,-81.6471182,Florida,park,Partly Cloudy,57.0
+Solitude Float Trips,43.6552739,-110.7158214,Wyoming,point_of_interest,Cloudy then Chance Light Snow,18.0
+"SK Tours Of Maine, LLC",44.7978477,-68.80582129999999,Maine,establishment,Partly Cloudy,23.0
+Raft One,35.0365753,-84.4276809,United States,point_of_interest,Clear,23.0
+Canopy Ridge Farm,35.4213726,-82.1718714,North Carolina,point_of_interest,Clear,25.0
+New Orleans Secrets,29.9575276,-90.0657538,Louisiana,point_of_interest,Partly Cloudy,44.0
+Broadmoor Outfitters,38.79226360000001,-104.8468204,Colorado,park,Mostly Cloudy,24.0
+Almost Heaven Kayak Adventures,27.3092988,-82.5694852,Florida,point_of_interest,Partly Cloudy,48.0
+Rod's Alaskan Guide Service,64.7903911,-147.303876,Alaska,point_of_interest,Light Snow,-2.0
+Riptide Ride,46.425784,-86.660046,Michigan,point_of_interest,Mostly Cloudy then Chance Snow Showers,27.0
+Kona Boys,19.5238925,-155.921827,United States,establishment,Scattered Rain Showers then Mostly Cloudy,66.0
+Hemingway Water Shuttle,25.961984,-81.727279,United States,point_of_interest,Partly Cloudy,56.0
+Manhattan Walking Tour,40.774227,-73.95249199999999,New York,point_of_interest,Mostly Clear,34.0
+Jungle Zipline Maui,20.908069,-156.228042,Hawaii,point_of_interest,Scattered Rain Showers,67.0
+Charlotte NC Tours,35.2270869,-80.8431267,North Carolina,political,Mostly Clear,29.0
+iRide Nashville,36.1631358,-86.7819641,Tennessee,point_of_interest,Clear,28.0
+Alaska Helicopter Tours,61.4343349,-148.7660042,United States,point_of_interest,,
+Hollywood Hikes,34.0928092,-118.3286614,California,political,Partly Cloudy,52.0
+Blazin' Paddles,36.0099332,-114.7844222,Nevada,point_of_interest,Partly Cloudy,44.0
+Intrepid Urban Adventures - Boston,42.3600825,-71.0588801,Massachusetts,political,Mostly Clear,29.0
+Maine State Sea Kayak,44.2849796,-68.32802339999999,United States,point_of_interest,Mostly Clear,27.0
+The Adventure Company,38.81307890000001,-106.105892,Colorado,point_of_interest,Mostly Cloudy,18.0
+Detroit Rolling Pub,42.33686369999999,-83.05551539999999,Michigan,establishment,Partly Cloudy,29.0
+Nightly Spirits,39.747916,-105.0002699,Colorado,point_of_interest,Slight Chance Light Snow then Patchy Freezing Drizzle,27.0
+ROAM East Zion,37.27784210000001,-112.6292508,Utah,point_of_interest,Partly Cloudy,24.0
+NYC Park Tours™ | Central Park Tours,40.7671773,-73.980294,New York,point_of_interest,Mostly Clear,33.0
+Unexpected Atlanta Walking Tours,33.748752,-84.38768449999999,Georgia,political,Clear,31.0
+Brazos Tours,31.5542435,-97.1479483,Texas,point_of_interest,Mostly Clear,38.0
+YourBikerGang.com,30.2723123,-97.758223,Texas,point_of_interest,Mostly Clear,41.0
+North End Boston Food Tour,42.3626899,-71.0553458,Massachusetts,point_of_interest,Mostly Clear,31.0
+The Magic Shuttle Bus,44.774717,-85.64295729999999,Michigan,point_of_interest,Mostly Cloudy then Chance Snow Showers And Patchy Blowing Snow,30.0
+Cal Coast Adventures,34.4192538,-119.6786292,California,point_of_interest,Partly Cloudy,47.0
+Wild River Adventures - Day Tours,48.48198259999999,-113.9997618,Montana,point_of_interest,Areas Of Fog,25.0
+Coastal Cruises,27.7561885,-82.7326325,United States,point_of_interest,Partly Cloudy,54.0
+Delicious Denver Food Tours,39.7392358,-104.990251,Colorado,political,Slight Chance Light Snow then Patchy Freezing Drizzle,27.0
+Grand Canyon Adventures,35.1951337,-111.6570786,Arizona,point_of_interest,Cloudy,20.0
+Rising Tide Explorers,25.9846776,-81.7044677,Florida,point_of_interest,Partly Cloudy,53.0
+Utah Outdoor Adventures,40.677869,-111.51313,Utah,park,Mostly Cloudy,18.0
+Maui Surfer Girls,20.8571868,-156.5028791,Hawaii,point_of_interest,Mostly Clear,68.0
+Savannah Bonaventure Dash Tours,32.0808989,-81.091203,Georgia,political,Clear,38.0
+Parasail Siesta,27.252066,-82.5344372,Florida,point_of_interest,Partly Cloudy,47.0
+In2Scuba Diving Maui Dive Co.,20.9691923,-156.6763589,United States,point_of_interest,Mostly Clear,71.0
+Bluewater Adventure,24.9156123,-80.6405966,United States,point_of_interest,Mostly Cloudy,66.0
+Red E Bike Tours,36.1946809,-115.1857432,Nevada,point_of_interest,Partly Cloudy,44.0
+Salt Marsh Safari The Skimmer,38.9488104,-74.90959629999999,New Jersey,point_of_interest,Mostly Clear,34.0
+Anna Maria Island Dolphin Tours,27.5072005,-82.7135788,Florida,point_of_interest,Partly Cloudy,51.0
+Adventure Paddle Tours,39.57815799999999,-106.088441,Colorado,point_of_interest,Mostly Cloudy,13.0
+Aspen Whitewater Rafting,39.1874597,-106.8184593,Colorado,point_of_interest,Mostly Cloudy,18.0
+Secret Food Tours New York City,40.7127753,-74.0059728,New York,political,Mostly Clear,33.0
+The Swamp Park,33.9438955,-78.44760269999999,North Carolina,park,Clear,32.0
+Experience NYC,40.7127753,-74.0059728,New York,political,Mostly Clear,33.0
+"Whitewater Rafting, LLC",39.5598645,-107.3535564,Colorado,point_of_interest,Mostly Cloudy,22.0
+All Seasons Adventures,40.659732,-111.501001,Utah,point_of_interest,Mostly Cloudy,22.0
+Fired Up Fishing Charters,28.4082763,-80.6231552,Florida,point_of_interest,Partly Cloudy,59.0
+Paddle Marco,25.9397412,-81.70753549999999,Florida,political,Partly Cloudy,55.0
+Saltwater Pony Tours,37.90251540000001,-75.4052658,Virginia,point_of_interest,Mostly Clear,31.0
+Secret Food Tours Las Vegas,36.171563,-115.1391009,Nevada,political,Partly Cloudy,42.0
+Mica Moon Zip Tours,47.6718467,-117.0906474,Washington,point_of_interest,Areas Of Fog,32.0
+Epic Adventure Rides,36.9016654,-111.4551283,Arizona,point_of_interest,Mostly Cloudy,28.0
+Treasure Seekers Shell Tours,25.9219215,-81.64730349999999,Florida,point_of_interest,Partly Cloudy,57.0
+A Boat Day,27.9743282,-82.80176569999999,Florida,point_of_interest,Partly Cloudy,50.0
+Ali'i Air Tours & Charters,21.9819854,-159.3443768,Hawaii,point_of_interest,Chance Rain Showers,71.0
+Satanic Salem Walking Tours,42.52068010000001,-70.8944956,United States,point_of_interest,Mostly Clear,31.0
+SURFit USA,27.3090381,-82.56980759999999,Florida,point_of_interest,Partly Cloudy,48.0
+Na Pali Pirates,21.9594028,-159.6917662,Hawaii,point_of_interest,Partly Cloudy,71.0
+Sail Door County,45.1910049,-87.11959739999999,Wisconsin,point_of_interest,Mostly Cloudy,27.0
+Gulf Coast Expeditions,28.8951849,-82.587277,Florida,point_of_interest,Partly Cloudy,37.0
+Four Season Guides,35.1961781,-111.6203784,Arizona,point_of_interest,Cloudy,22.0
+Black Hills Helicopters,43.9163972,-103.4420887,South Dakota,point_of_interest,Mostly Cloudy,21.0
+Dallas Party Bike,32.787909,-96.7736525,Texas,point_of_interest,Mostly Clear,39.0
+Canyon de Chelly Tours,36.1190734,-109.3197052,Arizona,park,Mostly Cloudy,27.0
+IntraCoastal Experience - Destin Fishing Charter,30.3925946,-86.50414479999999,Florida,point_of_interest,Mostly Clear,43.0
+Kauai Safaris,21.9707614,-159.391989,Hawaii,point_of_interest,,
+Ocoee Rafting,35.0308556,-84.378267,Tennessee,point_of_interest,Clear,23.0
+The Redneck Comedy Bus Tours - Branson,36.6436731,-93.2185144,Missouri,political,Clear,31.0
+Outlaw Adventure Tours,38.575075,-109.5522863,Utah,point_of_interest,Mostly Cloudy,20.0
+Suncoast Tours,27.1800229,-82.4912538,Florida,point_of_interest,Partly Cloudy,47.0
+Canyon Ministries Grand Canyon Christian Tours,35.1886571,-111.6902579,Arizona,point_of_interest,Cloudy,17.0
+Brazos Bluffs Ranch,31.6580603,-97.1447285,Texas,point_of_interest,Mostly Clear,36.0
+Scenic Flights of Acadia,44.445967,-68.369143,Maine,point_of_interest,Mostly Clear,25.0
+West Virginia Adventures,37.9248501,-81.16228869999999,West Virginia,establishment,Partly Cloudy,24.0
+Babylon Tours New York City,40.7602536,-73.9649024,New York,point_of_interest,Mostly Clear,33.0
+Undiscovered Charleston,32.7802349,-79.93468349999999,South Carolina,food,Clear,42.0
+The Haunted Galena Tour Company,42.4142656,-90.429981,Illinois,point_of_interest,Mostly Clear,25.0
+Leavenworth ZipLines,47.76771,-120.652965,United States,point_of_interest,Areas Of Fog,24.0
+Kevo's Beach Bus,21.2874089,-157.8366441,Hawaii,point_of_interest,Mostly Clear,72.0
+The Magic Merman Snorkel Charters,20.9211626,-156.6957074,Hawaii,point_of_interest,Mostly Clear,71.0
+OBX Airplanes,35.917076,-75.70053089999999,North Carolina,point_of_interest,Mostly Clear,37.0
+Empower Adventures Tampa Bay,28.027555,-82.658737,United States,point_of_interest,Partly Cloudy,48.0
+The Real Portland Tour,43.6567582,-70.2505982,Maine,point_of_interest,Mostly Clear,29.0
+Cville Hop on Tours,38.0261248,-78.4822094,Virginia,point_of_interest,Clear,26.0
+Independent Whitewater,38.5765209,-106.081043,United States,point_of_interest,Mostly Cloudy,22.0
+Coral Cliffs Tours of Kanab,37.0425944,-112.526761,Utah,point_of_interest,Mostly Cloudy,29.0
+Skydive New England,43.3717536,-70.9245605,Maine,point_of_interest,Partly Cloudy,26.0
+New Wave Adventures,63.74857160000001,-148.8994853,Alaska,point_of_interest,Chance Light Snow,-1.0
+Gulf Angler Fishing Charters,30.3930657,-86.50426329999999,United States,point_of_interest,Mostly Clear,43.0
+New York en francais,40.7127753,-74.0059728,New York,political,Mostly Clear,33.0
+Daleys Adventure Boat Tours,43.4744219,-73.62620199999999,New York,point_of_interest,Partly Cloudy,26.0
+Mobsters and Lobsters,42.1358375,-71.0003505,Massachusetts,point_of_interest,Mostly Clear,29.0
+Bonaventure Don,32.0451691,-81.05069569999999,Georgia,establishment,Clear,39.0
+Sight Sea-R Cruises,26.45746,-81.9430859,Florida,point_of_interest,Partly Cloudy,51.0
+Charleston Black Cab Company,32.809569,-80.00442799999999,South Carolina,point_of_interest,Clear,36.0
+Gulf Coast Kayak,26.6403671,-82.0558437,Florida,point_of_interest,Partly Cloudy,49.0
+Indigo Creek Outfitters,42.2735238,-122.8147599,Oregon,point_of_interest,Partly Cloudy then Patchy Fog,36.0
+Maui Bombers,20.7035285,-156.4302108,United States,point_of_interest,Mostly Clear,65.0
+Seattle's Best Tours,47.6061389,-122.3328481,Washington,political,Mostly Cloudy,38.0
+Amp'd Adventures,38.8782994,-104.8698717,Colorado,establishment,Mostly Cloudy,23.0
+Islander Girl Snorkel &Tours,25.0022747,-80.53140839999999,United States,point_of_interest,Mostly Cloudy,65.0
+Stick'n Rudder Aero Tours,41.68879889999999,-69.9922613,United States,point_of_interest,Mostly Clear,34.0
+Cruisin' Tikis Key Largo,25.0942223,-80.4432544,Florida,point_of_interest,Mostly Cloudy,65.0
+Laughlin Tours,35.1677771,-114.5730208,Nevada,political,Mostly Cloudy,50.0
+Gunship Helicopters,36.1390752,-115.168641,United States,point_of_interest,Partly Cloudy,43.0
+Aloha Brothers Surf Lessons,33.9889995,-118.466247,California,point_of_interest,Partly Cloudy,47.0
+Charleston Fossil Adventures,32.7764749,-79.93105120000001,South Carolina,political,Clear,42.0
+Nature's Discovery Manatee Tours,28.8951985,-82.5852003,Florida,point_of_interest,Partly Cloudy,37.0
+Higher Pursuits,35.578871,-86.88132999999999,Tennessee,point_of_interest,Clear,27.0
+SF Excursions,37.78625299999999,-122.460031,California,point_of_interest,Mostly Cloudy,49.0
+Grand Canyon Journeys,34.8242319,-111.8176618,Arizona,point_of_interest,Mostly Cloudy,42.0

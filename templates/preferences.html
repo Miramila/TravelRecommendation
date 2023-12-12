@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attraction Preferences</title>
+</head>
+<body>
+    <h1>Attraction Preferences</h1>
+    <form action="/preferences" method="post">
+        <label for="weather_preference">Weather Preference:</label>
+        <select name="weather_preference" id="weather_preference">
+            {% for s in attraction_data.keys() %}
+                <option value="{{ s }}">{{ s }}</option>
+            {% endfor %}
+        </select>
+        <br>
+        <label for="temperature_preference">Weather Preference:</label>
+        <select name="temperature_preference" id="temperature_preference">
+            {% for s in df['Temp Category'].unique() %}
+                <option value="{{ s }}">{{ s }}</option>
+            {% endfor %}
+        </select>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
